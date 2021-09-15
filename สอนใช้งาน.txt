@@ -1,0 +1,11 @@
+https://expressjs.com/th/starter/generator.html
+
+
+npm install express-generator -g
+
+express --view=ejs myapp
+cd myapp
+npm install
+
+
+code .
